@@ -1,5 +1,4 @@
 # coursera
-All the courses I took on Coursera
 
 > Coursera Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University 
 > computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations 
@@ -11,9 +10,8 @@ All the courses I took on Coursera
 * [Installation](#installation)
   * [SSH](#ssh)
   * [HTTPS](#https)
-* [Learning](#learning)
-  * [Coursera](#coursera)
-  * [YouTube](#youtube)
+* [Courses](#courses)
+
 
 ## Read this first 
 
