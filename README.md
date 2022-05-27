@@ -44,10 +44,10 @@ cd cryptography
 
 ### Python
 
-* Python For Everybody
-  * Programing For Everybody (Getting Started with Python)
-  * Python Data Structures
-  * Using Python to Acces Web Data
+* [Python For Everybody](https://github.com/yoavami/coursera/tree/main/courses/py4e)
+  * [Programing For Everybody (Getting Started with Python)](https://github.com/yoavami/coursera/tree/main/courses/py4e/1)
+  * [Python Data Structures](https://github.com/yoavami/coursera/tree/main/courses/py4e/2)
+  * [Using Python to Acces Web Data](https://github.com/yoavami/coursera/tree/main/courses/py4e/3)
 
 ### C
 
