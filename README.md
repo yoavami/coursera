@@ -54,7 +54,7 @@ cd cryptography
 
 ### C
 
-* C
+* C For Everybody
   * C For Everyone: Programming Fundamentals
 
 ### Cryptography
