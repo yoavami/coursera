@@ -12,7 +12,8 @@
   * [HTTPS](#https)
 * [Courses](#courses)
   * [Python](#python)
-    * [Python For Everybody](*python-for-everybody)
+  * [C](#c)
+  * [Cryptography](#cryptography)
 
 
 ## Read this first 
@@ -52,6 +53,9 @@ cd cryptography
   * [Using Python to Acces Web Data](https://github.com/yoavami/coursera/tree/main/courses/py4e/3)
 
 ### C
+
+* C
+  * C For Everyone: Programming Fundamentals
 
 ### Cryptography
 
