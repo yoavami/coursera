@@ -11,6 +11,8 @@
   * [SSH](#ssh)
   * [HTTPS](#https)
 * [Courses](#courses)
+  * [Python](#python)
+    * [Python For Everybody](*python-for-everybody)
 
 
 ## Read this first 
