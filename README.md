@@ -42,6 +42,17 @@ cd cryptography
 
 ## Courses
 
+### Python
+
+* Python For Everybody
+  * Programing For Everybody (Getting Started with Python)
+  * Python Data Structures
+  * Using Python to Acces Web Data
+
+### C
+
+### Cryptography
+
 * Specialization 1:
   * Course name: [Cryptography](https://www.coursera.org/learn/cryptography)
   * Specialization: [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security)
